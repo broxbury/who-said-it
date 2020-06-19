@@ -1,6 +1,7 @@
-.App {
-  text-align: center;
+h1, h2, p {
+  font-family: 'Acme', sans-serif;
 }
+
 
 .App-logo {
   height: 40vmin;
